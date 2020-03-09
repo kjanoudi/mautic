@@ -12,7 +12,6 @@
 namespace Mautic\CampaignBundle\EventListener;
 
 use Mautic\CampaignBundle\CampaignEvents;
-use Mautic\CampaignBundle\Entity\Campaign;
 use Mautic\CampaignBundle\Entity\Event;
 use Mautic\CampaignBundle\Entity\EventRepository;
 use Mautic\CampaignBundle\Event\CampaignBuilderEvent;
